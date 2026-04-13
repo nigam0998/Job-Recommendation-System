@@ -148,6 +148,15 @@ To add more skills to the parser, edit `resume_parser.py` and add to the `skill_
 - numpy
 - pandas
 
+## Team Members
+
+This project was developed by:
+
+- **Devyansh Nigam** - Project Lead & Core Logic
+- **Gautam Kumar** - Backend & ML Integration
+- **Gaurav** - Frontend & UI/UX
+- **Aditya Anand** - Data Parsing & QA
+
 ## License
 
 MIT License - feel free to use and modify!
