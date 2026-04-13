@@ -1,0 +1,6 @@
+  cd /Users/gauravgaurav/Documents/PythonII/JOB_RECOMMENDATION_SYSTEM                            
+  python3 -m venv venv                                                                           
+  source venv/bin/activate   
+
+    pip install -r requirements.txt    
+     python main.py --resume /path/to/your/resume.pdf --detailed

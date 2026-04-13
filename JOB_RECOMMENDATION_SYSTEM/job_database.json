@@ -1,0 +1,124 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Python Software Engineer",
+      "company": "Tech Solutions Inc",
+      "location": "San Francisco, CA (Remote)",
+      "salary": "$120,000 - $150,000",
+      "required_skills": ["python", "django", "flask", "postgresql", "git", "docker", "rest api"],
+      "description": "We are looking for a Python Software Engineer to join our team. You'll work on scalable web applications and microservices.",
+      "experience_level": "Mid-Level"
+    },
+    {
+      "id": 2,
+      "title": "Machine Learning Engineer",
+      "company": "AI Innovations",
+      "location": "New York, NY",
+      "salary": "$140,000 - $180,000",
+      "required_skills": ["python", "machine learning", "tensorflow", "pytorch", "scikit-learn", "pandas", "numpy", "deep learning", "nlp"],
+      "description": "Join our ML team to build cutting-edge AI models. Experience with transformers and LLMs is a plus.",
+      "experience_level": "Senior"
+    },
+    {
+      "id": 3,
+      "title": "Data Scientist",
+      "company": "DataDriven Analytics",
+      "location": "Remote",
+      "salary": "$110,000 - $145,000",
+      "required_skills": ["python", "r", "sql", "machine learning", "statistics", "pandas", "matplotlib", "jupyter"],
+      "description": "Analyze complex datasets and build predictive models. Strong statistical background required.",
+      "experience_level": "Mid-Level"
+    },
+    {
+      "id": 4,
+      "title": "Full Stack Developer",
+      "company": "StartupXYZ",
+      "location": "Austin, TX (Hybrid)",
+      "salary": "$100,000 - $130,000",
+      "required_skills": ["javascript", "react", "node.js", "python", "mongodb", "html", "css", "git"],
+      "description": "Build end-to-end features from database to UI. Fast-paced environment with lots of growth opportunities.",
+      "experience_level": "Mid-Level"
+    },
+    {
+      "id": 5,
+      "title": "DevOps Engineer",
+      "company": "CloudFirst Technologies",
+      "location": "Seattle, WA",
+      "salary": "$125,000 - $160,000",
+      "required_skills": ["docker", "kubernetes", "aws", "terraform", "python", "jenkins", "ci/cd", "linux"],
+      "description": "Manage and scale our cloud infrastructure. AWS certification preferred.",
+      "experience_level": "Senior"
+    },
+    {
+      "id": 6,
+      "title": "Frontend Developer",
+      "company": "Creative Web Agency",
+      "location": "Los Angeles, CA",
+      "salary": "$90,000 - $120,000",
+      "required_skills": ["javascript", "react", "typescript", "html", "css", "tailwind", "redux"],
+      "description": "Create beautiful, responsive user interfaces. Design sensibility is a plus.",
+      "experience_level": "Junior"
+    },
+    {
+      "id": 7,
+      "title": "Backend Developer",
+      "company": "Enterprise Solutions",
+      "location": "Chicago, IL (Remote)",
+      "salary": "$115,000 - $145,000",
+      "required_skills": ["java", "python", "spring boot", "postgresql", "redis", "kafka", "microservices"],
+      "description": "Build robust backend systems handling millions of requests. Strong CS fundamentals required.",
+      "experience_level": "Mid-Level"
+    },
+    {
+      "id": 8,
+      "title": "Mobile App Developer",
+      "company": "AppMakers Inc",
+      "location": "Boston, MA",
+      "salary": "$105,000 - $135,000",
+      "required_skills": ["swift", "kotlin", "flutter", "dart", "firebase", "ios", "android"],
+      "description": "Develop cross-platform mobile applications. Flutter experience highly valued.",
+      "experience_level": "Mid-Level"
+    },
+    {
+      "id": 9,
+      "title": "Cloud Architect",
+      "company": "Global Cloud Services",
+      "location": "Remote",
+      "salary": "$160,000 - $200,000",
+      "required_skills": ["aws", "azure", "gcp", "terraform", "python", "kubernetes", "architecture", "security"],
+      "description": "Design and lead cloud migration projects. 8+ years experience preferred.",
+      "experience_level": "Senior"
+    },
+    {
+      "id": 10,
+      "title": "NLP Engineer",
+      "company": "Language AI Labs",
+      "location": "Palo Alto, CA (Hybrid)",
+      "salary": "$150,000 - $190,000",
+      "required_skills": ["python", "nlp", "transformers", "huggingface", "bert", "gpt", "pytorch", "tensorflow"],
+      "description": "Work on state-of-the-art NLP models. PhD in NLP or related field preferred.",
+      "experience_level": "Senior"
+    },
+    {
+      "id": 11,
+      "title": "Junior Data Analyst",
+      "company": "Retail Analytics Co",
+      "location": "Denver, CO",
+      "salary": "$65,000 - $85,000",
+      "required_skills": ["excel", "sql", "python", "tableau", "power bi", "statistics"],
+      "description": "Entry-level position for recent graduates. Training provided.",
+      "experience_level": "Junior"
+    },
+    {
+      "id": 12,
+      "title": "Security Engineer",
+      "company": "CyberSecure Systems",
+      "location": "Washington, DC",
+      "salary": "$130,000 - $170,000",
+      "required_skills": ["python", "security", "penetration testing", "aws", "siem", "compliance", "ci/cd security"],
+      "description": "Protect our systems and data. Security certifications (CISSP, CEH) preferred.",
+      "experience_level": "Senior"
+    }
+  ]
+}
